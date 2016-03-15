@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Mission1-1 零基础HTML编码
+﻿# Mission1-1 零基础HTML编码
 
 标签（空格分隔）： IFE第一阶段
 
@@ -18,5 +17,5 @@ HTML1>HTML2.0>HTML4>**HTML4.0.1**>**XHTML1**>XHTML1.1>XTML2>**HTML5**>HTML6
 article、aside、span标签的使用。
 要熟练表单的使用及表单标签的使用。注意:for属性中的值应当与相关联控件的id属性值一定要相同。
 =======
-# mission1-1
->>>>>>> 3663d42f59af2f32114770e30ae37b8995539dc3
+
+
